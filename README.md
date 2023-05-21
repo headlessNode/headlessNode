@@ -1,5 +1,7 @@
 # Hello, I'm Muhammad Haris 👋
 
+![Muhammad Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=headlessNode&show_icons=true&theme=rose_pine&count_private=true)
+
 Aspiring C++ Programmer | Simulations | Gaming | Competitive Programming
 
 Welcome to my profile! I'm a beginner programmer with a passion for C++, simulations, gaming, and competitive programming. I enjoy diving deep into complex problems and finding solutions.
@@ -36,4 +38,4 @@ I'm open to learning new things, so if you have any suggestions or recommendatio
 Thank you for visiting my profile! ✨
 
 
-![Muhammad Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=headlessNode&show_icons=true&theme=rose_pine&count_private=true)
+
