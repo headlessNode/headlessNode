@@ -28,8 +28,8 @@ Welcome to my profile! I'm a beginner programmer with a passion for C++, simulat
 
 I'm eager to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through the following platforms:
 
-- [LinkedIn]:
-- [Email]: 
+- LinkedIn: www.linkedin.com/in/mechanical-artisan
+- Email: harriskhan047@outlook.com
 
 I'm open to learning new things, so if you have any suggestions or recommendations, feel free to share! Let's grow together and make a positive impact through programming and simulations.
 
