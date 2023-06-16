@@ -21,17 +21,15 @@ Welcome to my profile! I'm a beginner programmer with a passion for C++, simulat
 
 ## 💼 Experience
 
-##Projects: 
+### Projects
 
-Odin Recipes - This project was created as part of The Odin Project's Foundations course. It showcases recipes for three delicious dishes: Tandoori Chicken, Chapli Kebab, and Gulab                          Jamuns. Link: https://headlessnode.github.io/Odin-recipes/index.html
+- **Odin Recipes** - This project was created as part of The Odin Project's Foundations course. It showcases recipes for three delicious dishes: Tandoori Chicken, Chapli Kebab, and Gulab Jamuns.
+
+   - **Link**: [Odin Recipes GitHub Page](https://headlessnode.github.io/Odin-recipes/index.html)
 
 ## 📫 Let's Connect
 
 I'm eager to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through the following platforms:
 
-- LinkedIn: www.linkedin.com/in/mechanical-artisan
+- LinkedIn: [www.linkedin.com/in/mechanical-artisan](www.linkedin.com/in/mechanical-artisan)
 - Email: harriskhan047@outlook.com
-
-
-
-
