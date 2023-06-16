@@ -21,7 +21,9 @@ Welcome to my profile! I'm a beginner programmer with a passion for C++, simulat
 
 ## 💼 Experience
 
-- ###Projects: Odin Recipes - This project was created as part of The Odin Project's Foundations course. It showcases recipes for three delicious dishes: Tandoori Chicken, Chapli Kebab, and Gulab                          Jamuns. Link: https://headlessnode.github.io/Odin-recipes/index.html
+##Projects: 
+
+Odin Recipes - This project was created as part of The Odin Project's Foundations course. It showcases recipes for three delicious dishes: Tandoori Chicken, Chapli Kebab, and Gulab                          Jamuns. Link: https://headlessnode.github.io/Odin-recipes/index.html
 
 ## 📫 Let's Connect
 
