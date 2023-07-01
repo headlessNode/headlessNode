@@ -10,7 +10,7 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 
 ## 🚀 Skills
 
-- Programming languages: C++, Python
+- Programming languages: C++, HTML, CSS, Javascript, Python
 - Problem-solving and algorithm design
 - Object-oriented programming
 - Data structures and algorithms
