@@ -1,8 +1,6 @@
 # Hello, I'm Muhammad Haris 👋
 
-Aspiring C++ Programmer | Simulations | Gaming | Competitive Programming
-
-Welcome to my profile! I'm a beginner programmer with a passion for C++, simulations, gaming, and competitive programming. I enjoy diving deep into complex problems and finding solutions.
+Welcome to my profile! I'm a beginner programmer with a passion for  Web development, Low-level programming, simulations, and gaming. I enjoy diving deep into complex problems and finding solutions.
 
 ## 🌱 About Me
 
