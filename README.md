@@ -20,8 +20,9 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 
 ### Projects
 
-- **RPS-Showdown** - This project is the Rock Paper Scissors game created as part of The Odin Project's Foundations course. It allows users to play the classic game against the computer and showcase skills in JavaScript programming and DOM manipulation.
-   - **Link**: [RPS-Showdown](https://headlessnode.github.io/RPS-Showdown/)
+- **RPS-Showdown** - A Rock Paper Scissors game created as part of The Odin Project's Foundations course. It offers users the classic game experience against the computer, with the first player to reach 5 points declared as the winner. The project utilized DOM manipulation to update the game interface dynamically and it also includes game logic to handle user and computer choices to declare a winner.
+
+  - **Link**: [RPS-Showdown](https://headlessnode.github.io/RPS-Showdown/)
 
 - **Product-landing-page** - This Product landing page is designed to provide a clean and attractive introduction to the product or service. It includes essential sections such as a headline, product/service description, key features/specifications, and call-to-action.
    - **Link**: [Product Landing Page](https://headlessnode.github.io/product-landing-page/)
