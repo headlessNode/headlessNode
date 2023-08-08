@@ -20,7 +20,7 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 
 ### Projects
 
-- **Doodle Board** - An interactive doodle board created following The Odin Project's "Etch-A-Sketch" project. Users can draw on the board by clicking or hovering over cells in the grid. The project is built using HTML, CSS, and JavaScript to create an engaging drawing experience.
+- **Doodle Board** - An interactive doodle board created following The Odin Project's "Etch-A-Sketch" project. Users can draw on the board by hovering over cells in the grid. The project is built using HTML, CSS, and JavaScript to create an engaging drawing experience.
    - **Link**: [Doodle Board](https://headlessnode.github.io/Doodle-board/)
 
 - **RPS-Showdown** - A Rock Paper Scissors game created as part of The Odin Project's Foundations course. It offers users the classic game experience against the computer, with the first player to reach 5 points declared as the winner. The project utilizes DOM manipulation to update the game interface dynamically and it also includes game logic to handle user and computer choices to declare a winner.
