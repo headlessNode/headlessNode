@@ -30,12 +30,6 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 
   - **Link**: [RPS-Showdown](https://headlessnode.github.io/RPS-Showdown/)
 
-- **Product-landing-page** - This Product landing page is designed to provide a clean and attractive introduction to the product or service. It includes essential sections such as a headline, product/service description, key features/specifications, and call-to-action.
-   - **Link**: [Product Landing Page](https://headlessnode.github.io/product-landing-page/)
-
-- **Odin-Recipes** - This project was created as part of The Odin Project's Foundations course. It showcases recipes for three delicious dishes: Tandoori Chicken, Chapli Kebab, and Gulab Jamuns.
-
-   - **Link**: [Odin Recipes GitHub Page](https://headlessnode.github.io/Odin-recipes/index.html)
 
 ## 📫 Let's Connect
 
