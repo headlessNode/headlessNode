@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Haris 👋
+# Hello 👋
 
 Welcome to my profile! I'm a beginner programmer with a passion for  Web development, Low-level programming, simulations, and gaming. I enjoy diving deep into complex problems and finding solutions.
 
