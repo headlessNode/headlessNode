@@ -6,7 +6,6 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 
 - 🎓 Mechanical Engineering graduate. 
 - 💡 Interested in simulations and utilizing programming to model real-world phenomena.
-- 🎮 Enthusiastic gamer, exploring software development.
 
 ## 🚀 Skills
 
