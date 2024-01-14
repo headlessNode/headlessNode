@@ -34,5 +34,4 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 
 I'm eager to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through the following platforms:
 
-- LinkedIn: [www.linkedin.com/in/mechanical-artisan](www.linkedin.com/in/mechanical-artisan)
 - Email: harriskhan047@outlook.com
