@@ -10,6 +10,7 @@ Welcome to my profile! I'm a beginner programmer with a passion for  Web develop
 ## 🚀 Skills
 
 - Programming languages: C++, HTML, CSS, Javascript, Python
+- React
 - Node.js framework
 - Test Driven Development
 - Problem-solving and algorithm design
